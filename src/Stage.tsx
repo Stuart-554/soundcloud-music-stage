@@ -78,3 +78,4 @@ export class Stage extends StageBase<InitStateType, ChatStateType, MessageStateT
         );
     }
 }
+
